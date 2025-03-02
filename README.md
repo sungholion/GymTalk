@@ -19,4 +19,5 @@
 ## 기술 스택
 - Spring Boot, Spring Batch, Spring Redis, Spring data JPA, Querydsl
 - Apache Kafka
+- Docker, Jenkins
 
